@@ -10,9 +10,13 @@ Dentro de los paneles de informe en Google Analytics, cerca del título del info
 
 **Respuesta más rápida**: que utiliza un tamaño de muestra más pequeño para obtener los datos de manera más rápida. 
 
+![](../.gitbook/assets/captura-de-pantalla-2019-10-01-a-la-s-01.26.50.png)
+
 ## Guardar
 
 Desde esta opción podremos guardar los informes predeterminados o informes con filtros y segmentos asignados. Los informes guardados quedaran en el panel de "Personalización" e "Informes guardados".
+
+![](../.gitbook/assets/captura-de-pantalla-2019-10-01-a-la-s-01.27.15.png)
 
 ## Exportar
 
@@ -23,13 +27,19 @@ Desde esta opción podremos los datos de nuestros informes en formatos como:
 * Excel \(xlsx\)
 * CSV
 
+![](../.gitbook/assets/captura-de-pantalla-2019-10-01-a-la-s-01.27.23.png)
+
 ## Compartir
 
 Desde esta opción podremos compartir los informes de analytics mediante correo electrónico en formatos PDF, Excel o CSV y programarlos para entregarlos periódicamente.
 
+![](../.gitbook/assets/captura-de-pantalla-2019-10-01-a-la-s-01.27.55.png)
+
 ## Datos
 
 Desde esta opción podremos todos los datos de Analytics Intelligence que es un conjunto de funciones que utilizan aprendizaje automático con el fin de ayudarnos a obtener sugerencias, respuestas a preguntas, datos generales de acuerdo al uso que le demos a Google Analytics.
+
+![](../.gitbook/assets/captura-de-pantalla-2019-10-01-a-la-s-01.28.14.png)
 
 ## Añadir un segmento
 
